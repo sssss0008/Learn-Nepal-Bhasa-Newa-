@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Lotus Flame (Sukunda Diyo flame at top) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,27 C51.5,33 48,37 48,41 C48,44.5 50.7,47 54,47 C57.3,47 60,44.5 60,41 C60,37 56.5,33 54,27 Z" />
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M54,34 C52.8,37 51,39 51,41.5 C51,43.2 52.3,44.5 54,44.5 C55.7,44.5 57,43.2 57,41.5 C57,39 55.2,37 54,34 Z" />
+
+    <!-- Sukunda / Pagoda finial base -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M49,47 L59,47 L57,50 L51,50 Z" />
+
+    <!-- Open Palm-leaf Manuscript / Book (Thyasaphu) -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M52,52 L33,55 C31.5,55.2 30,56.5 30,58 L30,76 C30,77.5 31.5,78.5 33,78.2 L52,75 Z" />
+    <!-- Left Page Inscription lines -->
+    <path
+        android:fillColor="#C49B45"
+        android:pathData="M35,61 L49,59 L49,60.5 L35,62.5 Z M35,65 L49,63 L49,64.5 L35,66.5 Z M35,69 L49,67 L49,68.5 L35,70.5 Z M35,73 L45,71.5 L45,73 L35,74.5 Z" />
+
+    <!-- Right Page -->
+    <path
+        android:fillColor="#FFFDE7"
+        android:pathData="M56,52 L75,55 C76.5,55.2 78,56.5 78,58 L78,76 C78,77.5 76.5,78.5 75,78.2 L56,75 Z" />
+    <!-- Right Page Inscription lines -->
+    <path
+        android:fillColor="#C49B45"
+        android:pathData="M59,59 L73,61 L73,62.5 L59,60.5 Z M59,63 L73,65 L73,66.5 L59,64.5 Z M59,67 L73,69 L73,70.5 L59,68.5 Z M59,71.5 L69,73 L69,74.5 L59,73 Z" />
+
+    <!-- Central spine & bookmark ribbon in Vermilion -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M52.5,51 L55.5,51 L55.5,79 L54,82 L52.5,79 Z" />
+
+    <!-- Traditional Brass Stand Base / Sukunda Tray -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M38,78 L70,78 L66,82 L42,82 Z M35,82 L73,82 C74,82 75,82.8 75,83.8 L75,84.5 C75,85 74.5,85.5 73.8,85.5 L34.2,85.5 C33.5,85.5 33,85 33,84.5 L33,83.8 C33,82.8 34,82 35,82 Z" />
+</vector>

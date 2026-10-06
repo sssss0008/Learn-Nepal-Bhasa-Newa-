@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Glow base -->
+    <path
+        android:fillColor="#FFEBEE"
+        android:pathData="M60,6 A54,54 0 1,0 60,114 A54,54 0 1,0 60,6 Z" />
+
+    <!-- Lakhey Crown (Mukut) in Radiant Gold -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M36,36 L60,12 L84,36 L76,46 L44,46 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M48,36 L60,20 L72,36 L66,42 L54,42 Z" />
+    <!-- Crown Jewels -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M60,26 A3,3 0 1,0 60,32 A3,3 0 1,0 60,26 Z M48,34 A2,2 0 1,0 48,38 A2,2 0 1,0 48,34 Z M72,34 A2,2 0 1,0 72,38 A2,2 0 1,0 72,34 Z" />
+
+    <!-- Lakhey Fierce Red Face Mask -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M36,46 L84,46 C88,46 92,54 90,66 C88,78 78,98 60,102 C42,98 32,78 30,66 C28,54 32,46 36,46 Z" />
+
+    <!-- Third Eye (Trinetra) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M60,46 C57,51 57,57 60,62 C63,57 63,51 60,46 Z" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M60,51 A1.5,1.5 0 1,0 60,54 A1.5,1.5 0 1,0 60,51 Z" />
+
+    <!-- Big Fierce Eyes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,62 C40,58 48,56 52,62 C48,68 40,66 40,62 Z M80,62 C80,58 72,56 68,62 C72,68 80,66 80,62 Z" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M44,61 A3,3 0 1,0 44,67 A3,3 0 1,0 44,61 Z M76,61 A3,3 0 1,0 76,67 A3,3 0 1,0 76,61 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M44,62 A1.5,1.5 0 1,0 44,65 A1.5,1.5 0 1,0 44,62 Z M76,62 A1.5,1.5 0 1,0 76,65 A1.5,1.5 0 1,0 76,62 Z" />
+
+    <!-- Snarl / Open Fierce Mouth with Golden Fangs -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M44,78 C44,78 60,86 76,78 C74,90 60,94 44,78 Z" />
+    <!-- Fangs -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,78 L49,84 L52,78 Z M74,78 L71,84 L68,78 Z" />
+    <!-- Crimson Mustache / Flairs -->
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M32,74 C40,72 50,76 54,77 C48,81 38,82 32,74 Z M88,74 C80,72 70,76 66,77 C72,81 82,82 88,74 Z" />
+</vector>

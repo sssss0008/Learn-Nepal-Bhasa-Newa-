@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Sky background circle -->
+    <path
+        android:fillColor="#FFF3E0"
+        android:pathData="M60,6 A54,54 0 1,0 60,114 A54,54 0 1,0 60,6 Z" />
+    <!-- Sun glow behind temple -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M60,20 A30,30 0 1,0 60,80 A30,30 0 1,0 60,20 Z" />
+
+    <!-- Pinnacle / Gajur (Golden spire) -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M58,14 L62,14 L61,22 L59,22 Z M57,22 L63,22 L63,24 L57,24 Z M60,10 L60,14"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFA000" />
+
+    <!-- Top Roof (Tier 3) -->
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M60,24 L42,38 L78,38 Z" />
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M40,38 L80,38 L76,41 L44,41 Z" />
+
+    <!-- Top Chamber Wall -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M48,41 L72,41 L72,50 L48,50 Z" />
+    <!-- Top Wooden Struts -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M56,43 L64,43 L64,50 L56,50 Z" />
+
+    <!-- Middle Roof (Tier 2) -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M60,48 L32,64 L88,64 Z" />
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M30,64 L90,64 L86,67 L34,67 Z" />
+
+    <!-- Middle Chamber -->
+    <path
+        android:fillColor="#BCAAA4"
+        android:pathData="M42,67 L78,67 L78,78 L42,78 Z" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M52,69 L68,69 L68,78 L52,78 Z" />
+
+    <!-- Bottom Roof (Tier 1) -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M60,74 L20,92 L100,92 Z" />
+    <path
+        android:fillColor="#880E4F"
+        android:pathData="M18,92 L102,92 L98,96 L22,96 Z" />
+
+    <!-- Temple Base / Sanctorum Pillars -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M34,96 L86,96 L86,108 L34,108 Z" />
+    <!-- Golden Doorway -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M54,98 L66,98 L66,108 L54,108 Z" />
+    <!-- Stone Plinth / Steps -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M24,108 L96,108 L96,112 L24,112 Z M18,112 L102,112 L102,115 L18,115 Z" />
+</vector>

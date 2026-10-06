@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Steamer / Plate glow base -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M60,6 A54,54 0 1,0 60,114 A54,54 0 1,0 60,6 Z" />
+
+    <!-- Traditional Brass Platter (Bhatta) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M20,92 C20,104 40,110 60,110 C80,110 100,104 100,92 L20,92 Z" />
+    <path
+        android:strokeColor="#FFA000"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M16,92 L104,92" />
+
+    <!-- Yomari Body (Pointed teardrop-conical steamed rice pastry) -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M60,18 C58,28 34,60 34,76 C34,88 46,94 60,94 C74,94 86,88 86,76 C86,60 62,28 60,18 Z" />
+
+    <!-- Steamed Texture / Shading -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M60,18 C58,28 44,55 42,72 C41,78 43,84 46,88 C42,85 34,80 34,76 C34,60 58,28 60,18 Z" />
+
+    <!-- Two pointy ears / folds at top tip -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M60,18 L54,12 C57,14 59,16 60,18 Z M60,18 L66,12 C63,14 61,16 60,18 Z" />
+
+    <!-- Glistening sweet Chaku (Molasses) drip inside / aura -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M60,66 C57,66 54,69 54,72 C54,76 60,82 60,82 C60,82 66,76 66,72 C66,69 63,66 60,66 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M59,70 A1.5,1.5 0 1,0 59,73 A1.5,1.5 0 1,0 59,70 Z" />
+
+    <!-- Sesame seeds (Haku Hamo) garnish -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M50,86 A1.5,2 0 1,0 50,90 A1.5,2 0 1,0 50,86 Z M70,86 A1.5,2 0 1,0 70,90 A1.5,2 0 1,0 70,86 Z M60,90 A1.5,2 0 1,0 60,94 A1.5,2 0 1,0 60,90 Z" />
+</vector>
